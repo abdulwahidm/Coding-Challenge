@@ -33,7 +33,7 @@ reference built in function Math
 
 */
 
-/ insert your code here
+// insert your code here
 var gacha = Math.floor(Math.random() * 5 + 1);
 // console.log(gacha); 
 
